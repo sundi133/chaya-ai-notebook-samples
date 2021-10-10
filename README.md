@@ -1,4 +1,4 @@
-# image_classification
+# chaya-ai-notebook-samples
 image_classification with chaya-ai integration
 
 - cai.model_name = "deep_learning_adam_optimizer_loss_SparseCategoricalCrossentropy"
